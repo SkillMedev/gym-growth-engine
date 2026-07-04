@@ -1,6 +1,6 @@
 ---
 name: objection-handling-and-speed-to-lead
-description: Builds the speed-to-lead system, multi-touch follow-up cadence, and four-objection response framework that stop a gym from losing leads to slow contact or stalled consults. Use when a gym owner or coach says leads go cold, follow-up is slow or inconsistent, or a consumer prospect stalls on price, time, "ask my spouse," or "let me think about it" — and when building a follow-up sequence, no-show rebooking, or drilling objection responses with the team. Do NOT use when the buyer is a B2B account and the objection is incumbent competitor or organizational status quo — use objection-handler instead.
+description: Builds the speed-to-lead system, multi-touch follow-up cadence, and four-objection response framework that stop a gym from losing leads to slow contact or stalled consults. Use when a gym owner or coach says "my leads go cold before we ever talk to them", "prospects stall at the price and never sign", "we are slow and inconsistent at follow-up", or a consult stalls on price, time, "ask my spouse", or "let me think about it" — and when building a follow-up sequence, no-show rebooking, or drilling objection responses with the team. Do NOT use when the buyer is a B2B account and the objection is an incumbent competitor or organizational status quo — use objection-handler instead.
 ---
 
 # Objection Handling and Speed to Lead
