@@ -9,7 +9,7 @@ Turn a single-location gym into a predictable growth machine using the offer, le
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/gym-growth-engine](https://skillme.dev/pack/gym-growth-engine) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/gym-growth-engine`
+- **With the skills CLI:** `npx skills add SkillMedev/gym-growth-engine`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
