@@ -1,16 +1,17 @@
 # Gym Growth Engine
 
-**For gym owners: fill the calendar, close consults, and scale on proven unit economics.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For gym owners: fill the calendar, close consults, and scale on proven unit economics.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-gym-growth-engine).
 
 Turn a single-location gym into a predictable growth machine using the offer, lead-gen, sales, and money-model playbooks behind Gym Launch and Acquisition.com. Reach for it when you need more members but ads stall, when your offer or pricing isn't converting, when consults leak or members churn, or when you're stuck in the day-to-day and need KPIs, referrals, and hires to scale. Each skill ships runnable calculators and ready-to-send templates, so you leave with a decision and an artifact - not theory.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/gym-growth-engine](https://skillme.dev/pack/gym-growth-engine) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/gym-growth-engine?utm_source=github&utm_medium=readme&utm_campaign=pack-gym-growth-engine) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add gym-money-model grand-slam-offer-builder gym-pricing-and-guarantees core-four-lead-engine gym-transformation-challenge gym-meta-ads-funnel closer-sales-script objection-handling-and-speed-to-lead retention-and-churn-killer referral-and-affiliate-system kpi-scoreboard-and-cadence hiring-a-players-and-sops --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/gym-growth-engine`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -30,4 +31,4 @@ Turn a single-location gym into a predictable growth machine using the offer, le
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-gym-growth-engine).
